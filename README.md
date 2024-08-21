@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ishanshanu6213@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lBTw4kklMm9MyK5EduBuhPaiwx13Obrd/view?usp=drive_link](https://drive.google.com/file/d/1lBTw4kklMm9MyK5EduBuhPaiwx13Obrd/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1lBTw4kklMm9MyK5EduBuhPaiwx13Obrd/view?usp=drive_link]([https://drive.google.com/file/d/1lBTw4kklMm9MyK5EduBuhPaiwx13Obrd/view?usp=drive_link](https://drive.google.com/file/d/1Wy_HKzWRHtYAXc-dVJZlXROg7cgTWYPd/view?usp=drive_link))
 
 - ⚡ Fun fact **I like to play football**
 
