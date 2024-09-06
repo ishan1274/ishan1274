@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ishan sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **React Chat App + Firebase**
+- 🔭 I’m currently working on **Full Stack Projects**
 
-- 🌱 I’m currently learning **ReactJS , Firebase**
+- 🌱 I’m currently learning **Backend Dev.**
 
-- 👯 I’m looking to collaborate on **Front end development projects**
+- 👯 I’m looking to collaborate on **Web development projects**
 
 - 📫 How to reach me **ishanshanu6213@gmail.com**
 
