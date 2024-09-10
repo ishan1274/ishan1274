@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ishan sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Full Stack Projects**
-
-- 🌱 I’m currently learning **Backend Dev.**
-
-- 👯 I’m looking to collaborate on **Web development projects**
+- 🔭 I’m currently working on **Front End Projects**
 
 - 📫 How to reach me **ishanshanu6213@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lBTw4kklMm9MyK5EduBuhPaiwx13Obrd/view?usp=drive_link](https://drive.google.com/file/d/1lBTw4kklMm9MyK5EduBuhPaiwx13Obrd/view?usp=drive_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1lBTw4kklMm9MyK5EduBuhPaiwx13Obrd/view?usp=drive_link]([https://drive.google.com/file/d/1YCV3viSleIQDCMsjoGsrPCtLtWvV95em/view?usp=drive_link](https://drive.google.com/file/d/1YCV3viSleIQDCMsjoGsrPCtLtWvV95em/view?usp=drive_link))](https://drive.google.com/file/d/1lBTw4kklMm9MyK5EduBuhPaiwx13Obrd/view?usp=drive_link)
 
 - ⚡ Fun fact **I like to play football**
 
